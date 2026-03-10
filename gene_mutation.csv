@@ -1,0 +1,192 @@
+Gene,types_alteration
+ATRX,Mutation / Loss
+CDH1,Mutation / Downregulation
+CHEK1,Overexpression / Other expression
+BCL2,Overexpression
+CCND2,Amplification / Overexpression
+CXCL9,Overexpression / Cytokine dysregulation
+CTLA4,Overexpression / Immune modulation
+CHEK2,Mutation / Other expression
+ARID1A,Mutation / Loss-of-function
+CCR5,Overexpression / Other expression
+CDKN2A,Mutation / Deletion
+CDK6,Amplification / Overexpression
+COL3A1,Overexpression / Amplification
+CDH4,Mutation / Other expression
+BTLA,Overexpression / Other expression
+E2F1,Overexpression / Amplification
+CXCR3,Overexpression / Other expression
+CCND3,Amplification / Overexpression
+CASP3,Downregulation / Other expression
+COL1A1,Overexpression / Amplification
+CD74,Overexpression / Other expression
+BRCA2,Mutation
+CD44,Overexpression / Other expression
+DAXX,Mutation / Other expression
+CXCR4,Overexpression / Metastasis-related expression
+CLIP1,Mutation / Other expression
+CASP8,Mutation / Other expression
+CASP9,Downregulation / Other expression
+BID,Mutation / Downregulation
+EGFR,"Mutation (e.g., L858R, exon 19 deletions) / Amplification"
+CUX1,Mutation / Other expression
+CXCL11,Overexpression / Cytokine dysregulation
+CCL5,Overexpression
+CCND1,Amplification / Overexpression
+CDK4,Amplification / Overexpression
+E2F3,Overexpression / Amplification
+CXCL10,Overexpression / Cytokine dysregulation
+EIF4EBP1,Overexpression / Other expression
+ATM,Mutation
+CTNNB1,Mutation / Overexpression
+BAD,Downregulation / Other expression
+ALK,"Fusion (e.g., EML4_ALK)"
+ATR,Mutation
+BRAF,"Mutation (V600E, others)"
+BAX,Mutation / Downregulation
+CCL2,Overexpression
+CREBBP,Mutation / Other expression
+CD274,Overexpression (PD_L1)
+CYCS,Mutation / Downregulation
+BRCA1,Mutation
+EML4,Fusion (EML4-ALK)
+EP300,Mutation / Other expression
+ERBB3,Overexpression / Amplification
+ERBB4,Mutation / Overexpression
+ERCC1,Overexpression / DNA repair associated
+ERCC2,Mutation / DNA repair associated
+EZR,Overexpression / Other expression
+FAS,Mutation / Downregulation
+FASLG,Overexpression / Other expression
+FBXW7,Mutation / Deletion
+FGF2,Overexpression / Other expression
+FGFR1,Amplification / Overexpression
+FGFR2,Mutation / Amplification
+FGFR3,Mutation / Amplification
+FGFR4,Mutation / Overexpression
+FGFRL1,Mutation / Other expression
+FN1,Overexpression / Other expression
+GOPC,Fusion (GOPC-ROS1)
+HER2,Amplification / Mutation / Overexpression
+HIF1A,Overexpression / Hypoxia response
+HLA-A,Mutation / Downregulation
+HLA-B,Mutation / Downregulation
+HLA-C,Mutation / Downregulation
+HLA-E,Overexpression / Immune modulation
+HLA-G,Overexpression / Immune modulation
+HOTAIR,Overexpression / Non-coding RNA dysregulation
+IKBKE,Overexpression / Activation of NF-_B pathway
+IL10,Overexpression / Immunomodulation
+IL1B,Overexpression / Pro-inflammatory response
+IL6,Overexpression / Cytokine signaling
+ITGA6,Overexpression / Cell adhesion
+ITGB1,Overexpression / Cell adhesion / Invasion
+ITGB3,Overexpression / Cell adhesion / Metastasis
+JAK2,Mutation / Overactivation / Amplification
+KEAP1,Mutation / Loss-of-function
+KMT2A,Mutation / Epigenetic dysregulation
+KMT2B,Mutation / Epigenetic dysregulation
+KMT2C,Mutation / Epigenetic dysregulation
+KMT2D,Mutation / Epigenetic dysregulation
+KRAS,"Mutation (G12C, G12D, etc.)"
+LAG3,Overexpression / Immune checkpoint
+LKB1,Mutation / Loss-of-function
+MALAT1,Overexpression / Long non-coding RNA dysregulation
+MAP2K1,Mutation / Activation of MAPK pathway
+MAP2K2,Mutation / Activation of MAPK pathway
+MCL1,Overexpression / Anti-apoptotic
+MDM2,Amplification / Overexpression / p53 negative regulation
+MDM4,Amplification / Overexpression / p53 negative regulation
+MET,Amplification / Mutation / Overexpression
+MIR155,Overexpression / MicroRNA dysregulation
+MIR17HG,Overexpression / MicroRNA cluster dysregulation
+MIR200C,Downregulation / Epithelial-mesenchymal transition regulation
+MIR21,Overexpression / Oncogenic microRNA
+MIR34A,Downregulation / Tumor suppressor microRNA
+MLH1,Mutation / Loss-of-function / Epigenetic silencing
+MMP2,Overexpression / Matrix remodeling / Invasion
+MMP9,Overexpression / Matrix remodeling / Invasion
+MSH2,Mutation / Loss-of-function / DNA mismatch repair
+MSH6,Mutation / Loss-of-function / DNA mismatch repair
+MTOR,Mutation / Overactivation / PI3K-AKT pathway
+MYC,Amplification / Overexpression / Oncogene
+MYCL,Amplification / Overexpression / Oncogene
+MYCN,Amplification / Overexpression / Oncogene
+NEAT1,Overexpression / Long non-coding RNA dysregulation
+NF1,Mutation / Loss-of-function / RAS pathway regulation
+NF2,Mutation / Loss-of-function / Tumor suppressor
+NFE2L2,Mutation / Activation / Oxidative stress response
+NFKB1,Overexpression / Activation / NF-_B pathway
+NOTCH1,Mutation / Activation or Inactivation (context-dependent)
+NRAS,Mutation (activating)
+NTRK1,Fusion / Activating mutation
+NTRK2,Fusion / Activating mutation
+NTRK3,Fusion / Activating mutation
+PALB2,Mutation / DNA repair deficiency
+PDCD1,Overexpression / Immune checkpoint (PD-1)
+PDGFRA,Mutation / Amplification / Overexpression
+PDGFRB,Mutation / Amplification / Overexpression
+PIK3CA,Mutation / Overactivation / PI3K-AKT pathway
+POLD1,Mutation / DNA repair deficiency
+POLE,Mutation / DNA polymerase proofreading deficiency
+PTEN,Mutation / Loss-of-function / Tumor suppressor
+RAD51,Overexpression / DNA repair / Homologous recombination
+RAD52,Overexpression / DNA repair / Homologous recombination
+RAD54B,Mutation / DNA repair deficiency
+RB1,Mutation / Loss-of-function / Tumor suppressor
+RBL1,Mutation / Loss-of-function / Cell cycle regulation
+RBL2,Mutation / Loss-of-function / Cell cycle regulation
+REL,Overexpression / NF-_B family / Transcription factor
+RELA,Overexpression / NF-_B family / Transcription factor
+RET,Fusion / Activating mutation
+RHEB,Overexpression / mTOR pathway activation
+ROS1,Fusion / Activating mutation
+RPS6KB1,Overexpression / mTOR pathway downstream effector
+RPTOR,Overexpression / mTOR pathway regulation
+SDC4,Overexpression / Cell adhesion / Migration
+SLC34A2,Overexpression / Sodium-phosphate transporter / Oncogenic role
+SMAD2,Mutation / Dysregulation / TGF-_ pathway
+SMAD3,Mutation / Dysregulation / TGF-_ pathway
+SMAD4,Mutation / Loss-of-function / TGF-_ pathway
+SMAD7,Overexpression / Inhibition of TGF-_ signaling
+SMARCA4,Mutation / Loss-of-function / Chromatin remodeling
+SNAI1,Overexpression / Epithelial-mesenchymal transition (EMT)
+SNAI2,Overexpression / EMT / Metastasis
+SOCS3,Hypermethylation / Downregulation / JAK-STAT pathway
+SPARC,Overexpression / Extracellular matrix remodeling / Tumor progression
+STAT3,Overexpression / Activation / JAK-STAT pathway
+STAT5A,Overexpression / Activation / JAK-STAT pathway
+STAT5B,Overexpression / Activation / JAK-STAT pathway
+STK11,Mutation / Loss-of-function / Tumor suppressor
+TACC3,Fusion / Overexpression / Mitotic spindle regulation
+TERC,Overexpression / Telomerase RNA component / Immortality
+TERF1,Dysregulation / Telomere maintenance
+TERF2,Dysregulation / Telomere protection
+TERT,Promoter mutation / Overexpression / Telomerase activation
+TGFB1,Overexpression / TGF-_ pathway / EMT
+TGFB2,Overexpression / TGF-_ pathway / EMT
+TGFB3,Overexpression / TGF-_ pathway / EMT
+TIGIT,Overexpression / Immune checkpoint / Tumor evasion
+TIMP1,Overexpression / Inhibition of metalloproteinases / ECM remodeling
+TIMP2,Overexpression / Inhibition of metalloproteinases / ECM remodeling
+TNF,Overexpression / Inflammatory cytokine
+TP53,Mutation / Loss-of-function / Tumor suppressor
+TPM3,Fusion / Overexpression / Cytoskeleton regulation
+TPM4,Fusion / Overexpression / Cytoskeleton regulation
+TRAF2,Overexpression / NF-_B pathway / Cell survival
+TRAF3,Mutation / NF-_B pathway regulation
+TSC1,Mutation / Loss-of-function / mTOR pathway
+TSC2,Mutation / Loss-of-function / mTOR pathway
+TWIST1,Overexpression / EMT / Metastasis
+USP28,Overexpression / Deubiquitination / DNA damage response
+VEGFA,Overexpression / Angiogenesis
+VEGFR2,Overexpression / Angiogenesis signaling
+VHL,Mutation / Loss-of-function / Hypoxia signaling
+VIM,Overexpression / EMT / Mesenchymal marker
+WT1,Mutation / Overexpression / Tumor suppressor / Oncogene
+XIAP,Overexpression / Anti-apoptotic / Cell survival
+XRCC1,Polymorphism / DNA repair
+XRCC3,Polymorphism / DNA repair
+XRCC5,Overexpression / DNA repair / NHEJ
+XRCC6,Overexpression / DNA repair / NHEJ
+ZEB1,Overexpression / EMT / Metastasis

@@ -1,0 +1,71 @@
+Drug,Target
+Abozantinib,"Multi-kinase inhibitor: VEGFR, FGFR, RET"
+Adagrasib (Krazati),KRAS G12C mutant inhibitor
+Ado-trastuzumab emtansine (T-DM1),HER2 (antibody–drug conjugate)
+Afatinib,"EGFR, HER2, HER4 (irreversible ErbB inhibitor)"
+Alectinib,ALK inhibitor
+Alsetinib,ALK inhibitor
+Amivantamab,EGFR and MET (bispecific antibody)
+Amivantamab-vmjw (Rybrevant),EGFR and MET (bispecific antibody)
+Amucirumab,DLL4 (Notch pathway inhibitor)
+Apmatinib,VEGFR-2 inhibitor
+Atezolizumab,PD-L1 (immune checkpoint inhibitor)
+Bevacizumab,VEGF-A (angiogenesis inhibitor)
+Binimetinib,MEK1/2 inhibitor (MAPK pathway)
+Brigatinib,ALK and ROS1 inhibitor
+Cabozantinib,"Multi-kinase: MET, VEGFR2, RET, AXL, KIT, FLT3"
+Capmatinib,MET inhibitor (exon 14 skipping/amplification)
+Cemiplimab,PD-1 inhibitor
+Cemiplimab-rwlc (Libtayo),PD-1 inhibitor
+Ceritinib,ALK inhibitor
+Cetuximab,EGFR (monoclonal antibody)
+Crizotinib,"ALK, ROS1, MET inhibitor"
+Dabrafenib,BRAF V600E/K inhibitor
+Dacomitinib,"EGFR, HER2, HER4 (irreversible pan-HER inhibitor)"
+Datopotamab deruxtecan,TROP2 (antibody–drug conjugate)
+Datopotamab deruxtecan-dlnk (Datroway),TROP2 (antibody–drug conjugate)
+Docetaxel,Microtubule stabilizer
+Durvalumab,PD-L1 inhibitor
+Encorafenib,BRAF V600E/K inhibitor
+Ensartinib,ALK inhibitor
+Entrectinib,"TRK A/B/C, ROS1, ALK inhibitor"
+Erdafitinib,FGFR1-4 inhibitor
+Erlotinib,EGFR inhibitor (reversible)
+Fam-trastuzumab deruxtecan-nxki (Enhertu),HER2 (antibody–drug conjugate)
+Gefitinib,EGFR inhibitor (reversible)
+Gemcitabine,Nucleoside analog (DNA synthesis inhibitor)
+Gilteritinib,FLT3 inhibitor
+Ipilimumab,CTLA-4 (immune checkpoint inhibitor)
+Larotrectinib,TRK A/B/C inhibitor
+Lazertinib,EGFR T790M/C797S selective inhibitor
+Lorlatinib,"ALK, ROS1 inhibitor"
+Lurbinectedin (Zepzelca),DNA minor groove binder (cytotoxic)
+Mobocertinib,EGFR exon 20 insertion selective inhibitor
+Nab-Paclitaxel,Microtubule stabilizer (albumin-bound)
+Necitumumab,EGFR (monoclonal antibody)
+Nivolumab,PD-1 inhibitor
+Osimertinib,EGFR T790M inhibitor (irreversible)
+Paclitaxel,Microtubule stabilizer
+Pembrolizumab,PD-1 inhibitor
+Pemetrexed,"Antifolate (thymidylate synthase, DHFR, GARFT)"
+Pralsetinib,RET inhibitor
+Ramucirumab,VEGFR-2 (angiogenesis inhibitor)
+Repotrectinib,"TRK A/B/C, ROS1, ALK inhibitor (next-generation multi-kinase)"
+Savolitinib,MET inhibitor
+Selpercatinib,RET inhibitor
+Selumetinib,MEK1/2 inhibitor (MAPK pathway)
+Sotorasib (Lumakras),KRAS G12C inhibitor
+Sunvozertinib (DZD9008),EGFR exon 20 insertion selective inhibitor
+Taletrectinib,"ROS1, NTRK inhibitor"
+Tarlatamab-dlle (Imdelltra),DLL3 (bispecific T-cell engager for neuroendocrine tumors)
+Telisotuzumab vedotin,c-MET (antibody–drug conjugate)
+Telisotuzumab vedotin-tllv,"c-MET (antibody–drug conjugate, same as above)"
+Tepotinib,MET inhibitor
+Trametinib,MEK1/2 inhibitor (MAPK pathway)
+Trastuzumab,HER2 (monoclonal antibody)
+Tremelimumab,CTLA-4 (immune checkpoint inhibitor)
+Vandetanib,"Multi-kinase: VEGFR, RET, EGFR inhibitor"
+Vemurafenib,BRAF V600E/K inhibitor
+Vinorelbine,Microtubule inhibitor (mitotic spindle poison)
+Zenocutuzumab,HER2 / HER3 bispecific antibody
+Zongertinib (Hernexeos),EGFR (including Exon 20 insertion) inhibitor

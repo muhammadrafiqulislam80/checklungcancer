@@ -1,0 +1,48 @@
+Trial,Drug,Target,Stage,Setting,Outcome,Year
+ADAURA,Osimertinib,EGFR,IB-IIIA,Adjuvant,Improved DFS,2020
+IMpower010,Atezolizumab,PD-L1,IB-IIIA,Adjuvant post chemo,Improved DFS,2021
+ALCHEMIST,Erlotinib,EGFR,IB-IIIA,Adjuvant,Ongoing,2019
+ALCHEMIST-ALK,Crizotinib,ALK,IB-IIIA,Adjuvant,Ongoing,2019
+KEYNOTE-091,Pembrolizumab,PD-1,IB-IIIA,Adjuvant,Improved DFS,2022
+PEARLS,Pembrolizumab,PD-1,IB-IIIA,Adjuvant,Improved DFS,2022
+CheckMate-816,Nivolumab,PD-1,II-IIIA,Neoadjuvant,Improved pCR,2022
+AEGEAN,Durvalumab,PD-L1,II-IIIA,Neoadjuvant,Improved EFS,2023
+KEYNOTE-671,Pembrolizumab,PD-1,II-IIIB,Perioperative,Improved EFS,2023
+NADIM,Nivolumab,PD-1,IIIA,Neoadjuvant,Improved survival,2020
+PACIFIC,Durvalumab,PD-L1,III,Consolidation after CRT,Improved OS,2017
+PACIFIC-2,Durvalumab,PD-L1,III,Concurrent CRT,Ongoing,2023
+NICOLAS,Nivolumab,PD-1,III,CRT combination,Safety acceptable,2021
+CheckMate-73L,Nivolumab,PD-1,III,Consolidation,Ongoing,2024
+KEYNOTE-799,Pembrolizumab,PD-1,III,CRT combination,Promising response,2021
+KEYNOTE-024,Pembrolizumab,PD-1,IV,First-line PD-L1>50%,Improved OS,2016
+KEYNOTE-042,Pembrolizumab,PD-1,IV,PD-L1 positive,Improved OS,2018
+KEYNOTE-189,Pembrolizumab + chemo,PD-1,IV,First-line nonsquamous,Improved OS,2018
+KEYNOTE-407,Pembrolizumab + chemo,PD-1,IV,First-line squamous,Improved OS,2018
+EMPOWER-Lung1,Cemiplimab,PD-1,IV,First-line PD-L1 high,Improved OS,2021
+POSEIDON,Durvalumab + Tremelimumab,PD-L1/CTLA4,IV,First-line combo,Improved OS,2022
+CheckMate-227,Nivolumab + Ipilimumab,PD-1/CTLA4,IV,First-line immunotherapy,Improved OS,2019
+CheckMate-9LA,Nivolumab + Ipilimumab + chemo,PD-1/CTLA4,IV,First-line,Improved OS,2021
+ORIENT-11,Sintilimab + chemo,PD-1,IV,First-line nonsquamous,Improved PFS,2020
+ORIENT-12,Sintilimab + chemo,PD-1,IV,First-line squamous,Improved PFS,2020
+RATIONALE-304,Tislelizumab + chemo,PD-1,IV,First-line nonsquamous,Improved PFS,2021
+RATIONALE-307,Tislelizumab + chemo,PD-1,IV,First-line squamous,Improved PFS,2021
+CAMELOT,Camrelizumab + chemo,PD-1,IV,First-line,Improved PFS,2020
+GEMSTONE-302,Sugemalimab + chemo,PD-L1,IV,First-line,Improved PFS,2021
+AK105-302,Penpulimab + chemo,PD-1,IV,First-line,Ongoing,2023
+FLAURA,Osimertinib,EGFR,IV,First-line EGFR mutant,Improved OS,2018
+FLAURA2,Osimertinib + chemo,EGFR,IV,First-line EGFR mutant,Improved PFS,2023
+ARCHER1050,Dacomitinib,EGFR,IV,First-line EGFR mutant,Improved PFS,2017
+LUX-Lung3,Afatinib,EGFR,IV,First-line EGFR mutant,Improved PFS,2013
+LUX-Lung6,Afatinib,EGFR,IV,First-line EGFR mutant,Improved PFS,2014
+NEJ009,Gefitinib + chemo,EGFR,IV,First-line EGFR mutant,Improved OS,2019
+MARIPOSA,Amivantamab + Lazertinib,EGFR,IV,First-line EGFR mutant,Improved PFS,2023
+CHRYSALIS,Amivantamab,EGFR exon20,IV,Second-line,Improved response,2021
+PAPILLON,Amivantamab + chemo,EGFR exon20,IV,First-line,Ongoing,2024
+AURA3,Osimertinib,T790M,IV,Second-line EGFR,Improved PFS,2017
+ALEX,Alectinib,ALK,IV,First-line ALK+,Improved PFS,2017
+CROWN,Lorlatinib,ALK,IV,First-line ALK+,Improved PFS,2020
+ALTA-1L,Brigatinib,ALK,IV,First-line ALK+,Improved PFS,2018
+PROFILE1014,Crizotinib,ALK,IV,First-line ALK+,Improved PFS,2014
+ASCEND-4,Ceritinib,ALK,IV,First-line ALK+,Improved PFS,2017
+J-ALEX,Alectinib,ALK,IV,First-line ALK+,Improved PFS,2017
+eXalt3,Ensartinib,ALK,IV,First-line ALK+,Improved PFS,2021
